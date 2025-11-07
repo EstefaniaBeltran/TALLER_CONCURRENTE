@@ -1,5 +1,6 @@
 package main
 
+
 import (
 	"fmt"      //imprimir en pantalla
 	"sync"     //WaitGroup (sincronización)

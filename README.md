@@ -1,4 +1,5 @@
 # TALLER_CONCURRENTE
+Integrantes: Estefanía Beltrán, Marc Suarez y Alejandro Poveda
 # Ejercicio 1 – Ejecución concurrente con Goroutines
 
 Descripción

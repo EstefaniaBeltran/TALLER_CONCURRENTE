@@ -1,5 +1,5 @@
 # TALLER_CONCURRENTE
-#Ejercicio 1 – Ejecución concurrente con Goroutines
+# Ejercicio 1 – Ejecución concurrente con Goroutines
 
 Descripción
 
@@ -12,7 +12,7 @@ Conceptos:
 Lanzamiento de goroutines con go .
 Sincronización con sync.WaitGroup .
 
-#Ejercicio 2 – Comunicación concurrente con canales
+# Ejercicio 2 – Comunicación concurrente con canales
 
 Descripción
 

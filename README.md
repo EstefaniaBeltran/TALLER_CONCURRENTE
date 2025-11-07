@@ -50,4 +50,12 @@ Lanza varias goroutines “worker” que tomen tareas del canal y las ejecuten c
 Muestra los resultados a medida que llegan a través del canal de resultados.
 Usa sync.WaitGroup para esperar que todas las tareas finalicen antes de imprimir el mensaje final:
 
+Todas las tareas han sido completadas.
+
+Conceptos:
+
+Planificación de tareas concurrentes con prioridad simulada.
+Comunicación y coordinación entre goroutines.
+Sincronización mediante sync.WaitGroup .
+
 

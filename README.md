@@ -1,6 +1,8 @@
 # TALLER_CONCURRENTE
 Ejercicio 1 – Ejecución concurrente con Goroutines
+
 Descripción
+
 Crea un programa que ejecute tres tareas concurrentes:
 1. Imprimir los números del 1 al 5.
 2. Imprimir las letras de la A a la E.
